@@ -1,19 +1,15 @@
-# TodoMVC App Template
-
-> Template used for creating [TodoMVC](http://todomvc.com) apps
-
-![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
-
-
-## Getting started
-
-- Read the [Application Specification](https://github.com/tastejs/todomvc/blob/master/app-spec.md) before touching the template.
-
-- Delete this file and rename `app-readme.md` to `readme.md` and fill it out.
-
-- Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
-
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://sindresorhus.com" property="cc:attributionName" rel="cc:attributionURL">TasteJS</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.
+## 功能分析
+#### 1. addList增加新任务       done
+#### 2. 实时展示所有任务	 done
+#### 3. toggle所有任务状态       done
+#### 4. toggle当前ID任务状态   done
+#### 5.	左下角自动更新未完成任务数量
+#### 6. 删除任务			done
+#### 7. 编辑任务
+#### 8. all展示使用任务
+#### 9. Active展示未完成任务
+#### 10. 有任务完成时，显示clear Competed，删除已完成任务，反之
+#### 11. 本地存储tasks,下次打开依然可以访问
+## 按键与任务
+> 1.section class="todoapp" 
+> 2.
